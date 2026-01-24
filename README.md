@@ -27,10 +27,10 @@ Download the latest release off of the [releases page](https://github.com/anope/
 
 ## Configuration
 
-Copy conf/anope.example.conf to conf/anope.conf
+Copy data/anope.example.conf to data/anope.conf
 
 ```
-$ cp conf/anope.example.conf conf/anope.conf
+$ cp data/anope.example.conf data/anope.conf
 ```
 
 Edit anope.conf, configuring the uplink, serverinfo, and protocol module configurations. Example link blocks for popular IRCds are included in the the example.conf documentation. The [Anope wiki](https://wiki.anope.org) is also a good source of information. Our support channel is located at #anope on [irc.teranova.net](ircs://irc.teranova.net/anope).
